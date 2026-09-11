@@ -40,5 +40,4 @@ Goal: strong CV project showing advanced DB + full-stack skills.
 - [ ] Stage 7: Docs (README,screenshots,ER diagram)
 - [ ] Stage 8: Live deploy
 
-## Next step
-Stage 1 done. Tables: departments, students, teachers, courses, prerequisites, sections, enrollments, waitlist, grades, audit_log. Seed data loaded (8 students, 6 courses, CSE301 section has seat_limit=2 for seat-race demo). Next: Stage 2 advanced SQL (views, procedures, triggers, CTEs, window functions) in database/ folder.
+
